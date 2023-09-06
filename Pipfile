@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+boto3 = "*"
+opencv-python = "4.8.0.76"
+opencv-contrib-python = "4.8.0.76"
+tensorflow-cpu = "2.12.0"
+s3fs = "2023.6.0"
+pandas = "1.5.3"
+polars = "0.18.15"
+matplotlib = "*"
+ipykernel = "*"
+ipywidgets = "*"
+seaborn = "*"
+plotly = "*"
+streamz = "0.6.4"
+kafka-python = "2.0.2"
+zarr = "2.14.2"
+deltalake = "0.8.1"
+scikeras = "0.10.0"
+
+[requires]
+python_version = "3.10"
