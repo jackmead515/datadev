@@ -15,7 +15,9 @@
 - [ ] Normal distribution and empirical rule
 - [ ] Z-score and probabilities
 - [ ] Sampling distributions and the central limit theorem
+- [ ] Correlation coefficient
 - [ ] Kalman Filter
+- [ ] Particle Filter
 - [ ] Mahalanobis Distance
 - [ ] [Sort Detector](https://github.com/abewley/sort)
 - [ ] Standard Error
