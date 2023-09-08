@@ -5,15 +5,15 @@
 - [ ] Sampling
 - [ ] Experimental design
 - [ ] Randomization
-- [ ] Frequency histogram and distribution
-- [ ] Time series, bar and pie graphs
+- [x] Frequency histogram and distribution
+- [x] Time series, bar and pie graphs
 - [ ] Frequency table and stem-and-leaf
 - [ ] Measures of central tendency
 - [ ] Measure of variation
 - [ ] Percentile and box-and-whisker plots
 - [ ] Scatter diagrams and linear correlation
 - [ ] Normal distribution and empirical rule
-- [ ] Z-score and probabilities
+- [x] Z-score and probabilities
 - [ ] Sampling distributions and the central limit theorem
 - [ ] Kalman Filter
 - [ ] Mahalanobis Distance
@@ -21,22 +21,22 @@
 - [ ] Standard Error
 - [ ] Confidence Interval
 - [ ] T-statistic
-- [ ] P-value
+- [x] P-value
 - [ ] Residual Standard Error
 - [ ] R squared statistic
 - [ ] F statistic
 - [ ] Affine Transformation
-- [ ] Supervised / Unsupervised Learning
-- [ ] Precision / Recall Tradeoff
-- [ ] ROC Curve
-- [ ] Bias - Variance Tradeoff
-- [ ] Batch Gradient Descent
-- [ ] Stochastic Gradient Descent
+- [x] Supervised / Unsupervised Learning
+- [x] Precision / Recall Tradeoff
+- [x] ROC Curve
+- [x] Bias - Variance Tradeoff
+- [x] Batch Gradient Descent
+- [x] Stochastic Gradient Descent
 - [ ] Ensemble Learning
 - [ ] XGBoost
 - [ ] PCA Anaylsis
-- [ ] Vanishing / Exploding Gradients
-- [ ] Convolutional Neural Networks
+- [x] Vanishing / Exploding Gradients
+- [x] Convolutional Neural Networks
 - [ ] SVM Regression
 - [ ] Linear Discriminant Analysis
 - [ ] t-SNE t-Distributed Stochastic Neighbor Embedding
@@ -45,3 +45,4 @@
 - [ ] Xavier and He Initialization
 - [ ] Autoencoders
 - [ ] Temporal CNN
+- [ ] [Density Estimation](https://scikit-learn.org/stable/modules/density.html)

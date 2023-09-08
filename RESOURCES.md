@@ -21,3 +21,4 @@
 - [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/)
 - [Network Science](http://networksciencebook.com/)
 - [Networks, Crowds, and Markets](http://www.cs.cornell.edu/home/kleinber/networks-book/)
+- [Scikit Learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html)
