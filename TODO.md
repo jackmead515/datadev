@@ -2,6 +2,12 @@
 
 ## Learning Topics
 
+- [ ] Ordinary Least Squares
+- [ ] Contingency Table
+- [ ] Chi-squared Test
+- [ ] F-test
+- [ ] T-test
+- [ ] ANOVA
 - [ ] Sampling
 - [ ] Experimental design
 - [ ] Randomization
