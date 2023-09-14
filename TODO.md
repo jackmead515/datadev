@@ -14,10 +14,10 @@
 - [x] Frequency histogram and distribution
 - [x] Time series, bar and pie graphs
 - [ ] Frequency table and stem-and-leaf
-- [ ] Measures of central tendency
+- [x] Measures of central tendency
 - [ ] Measure of variation
-- [ ] Percentile and box-and-whisker plots
-- [ ] Scatter diagrams and linear correlation
+- [x] Percentile and box-and-whisker plots
+- [x] Scatter diagrams and linear correlation
 - [ ] Normal distribution and empirical rule
 - [x] Z-score and probabilities
 - [ ] Sampling distributions and the central limit theorem
