@@ -13,3 +13,4 @@ afford online classes for all sorts of fields.
 - [ ] [Industrial Biotechnology](https://www.coursera.org/learn/industrial-biotech)
 - [ ] [Understanding Research Methods](https://www.coursera.org/learn/research-methods)
 - [ ] [Quantitative Methods](https://www.coursera.org/learn/quantitative-methods)
+- [ ] [Massachusetts Institute of Technology: Introduction to Biology - The Secret of Life](https://www.edx.org/learn/biology/massachusetts-institute-of-technology-introduction-to-biology-the-secret-of-life?index=product&queryID=23646a9a0e50d39e017cee8d40851cbc&position=1&results_level=first-level-results&term=biology&objectID=course-389d5e5e-7679-467e-b5bb-b21c9c86ca1f&campaign=Introduction+to+Biology+-+The+Secret+of+Life&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
