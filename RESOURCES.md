@@ -8,6 +8,7 @@
 
 - Book - Practical Statistics for Data Scientists
 - Book - Naked Statistics
+- [Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/)
 - [Statistics and Probability - Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 - [DataTab Tutorials](https://datatab.net/tutorial/get-started)
 
