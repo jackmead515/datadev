@@ -54,3 +54,11 @@
 - [ ] Autoencoders
 - [ ] Temporal CNN
 - [ ] [Density Estimation](https://scikit-learn.org/stable/modules/density.html)
+- [ ] D'Agostino's K-squared test
+- [ ] Jarque–Bera test,
+- [ ] Anderson–Darling test,
+- [ ] Cramér–von Mises criterion,
+- [ ] Kolmogorov–Smirnov test
+- [ ] Lilliefors test
+- [ ] Shapiro–Wilk test
+- [ ] Pearson's chi-squared test
