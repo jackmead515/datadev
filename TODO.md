@@ -9,6 +9,7 @@
 - [ ] T-test
 - [ ] ANOVA
 - [ ] Sampling
+- [ ] Silhouette Coefficient
 - [ ] Experimental design
 - [ ] Randomization
 - [x] Frequency histogram and distribution
@@ -62,3 +63,8 @@
 - [ ] Lilliefors test
 - [ ] Shapiro–Wilk test
 - [ ] Pearson's chi-squared test
+- [ ] Cohen's Kappa
+- [ ] Blagging
+- [ ] F1 Score
+- [ ] SMOTE
+- [ ] ADASYN
