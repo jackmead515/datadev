@@ -15,9 +15,16 @@ Why don't I just use Trello? Or Notion? Or something else? Become I'm a programm
 
 ## Startup Juypter
 
-jupyter notebook --no-browser --NotebookApp.allow_origin='*' --port=8080
-ssh -NfL localhost:8080:localhost:8080 remoteuser@remotehost
-pkill ssh
+Install the juypter system service is `/etc/systemd/system/jupyter.service`
+
+systemctl daemon-reload
+systemctl enable jupyter.service
+systemctl start jupyter.service
+systemctl status jupyter.service
+
+Connect with `http://172.23.0.10:8080/tree?token=1234567890`
+
+Have to be on zerotier though :)
 
 ## Install Nvidia, CUDA, and cuDNN
 
