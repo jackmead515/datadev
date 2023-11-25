@@ -1,0 +1,9 @@
+[Unit]
+After=network.service
+
+[Service]
+ExecStart=/home/jack/Documents/Workspace/datadev/juypter/startup.sh
+User=jack
+
+[Install]
+WantedBy=default.target
