@@ -1,8 +1,8 @@
-cd /home/jack/Documents/Workspace/datadev/datagpu
+#! /bin/bash
 
-pipenv shell
-
-jupyter notebook \
+/home/jack/.local/share/virtualenvs/datagpu-WouzjJ5V/bin/python3 \
+    -m \
+    jupyter notebook \
     --no-browser \
     --NotebookApp.allow_origin='*' \
     --ip='172.23.0.10' \
