@@ -7,5 +7,5 @@
     --NotebookApp.allow_origin='*' \
     --ip='172.23.0.10' \
     --port=8080 \
-    --NotebookApp.token='' \
-    --NotebookApp.password=''
+    --NotebookApp.token='1234567890' \
+    --NotebookApp.password='1234567890'
