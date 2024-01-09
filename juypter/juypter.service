@@ -1,9 +1,14 @@
 [Unit]
+Description=Jupyter Notebook
 After=network.service
 
 [Service]
 ExecStart=/home/jack/Documents/Workspace/datadev/juypter/startup.sh
 User=jack
+Restart=always
+RestartSec=10
+StandardOutput=syslog
+StandardError=syslog
 
 [Install]
 WantedBy=default.target
